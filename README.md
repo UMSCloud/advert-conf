@@ -3,8 +3,8 @@
 # .conf
 白名单merkleroot以及其他配置项
 
-#white.list
+# white.list
 白名单
 
-#black.list
+# black.list
 nft黑名单
